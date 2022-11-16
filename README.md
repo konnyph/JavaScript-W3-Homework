@@ -8,6 +8,7 @@ Modify some code in JavaScript ro meet the acceptance criteria.
 
 # Screenshots 
 A screenshot of the working webpage is under Assets file. 
+/Users/goldenchicken/gt-bootcamp/homework/JavaScript-Week3-Homework/JavaScript-W3-Homework/Assets/Screen Shot 2022-11-15 at 9.47.49 PM.png
 
 # URL: 
 https://konnyph.github.io/JavaScript-W3-Homework/
