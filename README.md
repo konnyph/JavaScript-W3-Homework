@@ -10,6 +10,8 @@ Modify some code in JavaScript ro meet the acceptance criteria.
 A screenshot of the working webpage is under Assets file. 
 /Users/goldenchicken/gt-bootcamp/homework/JavaScript-Week3-Homework/JavaScript-W3-Homework/Assets/Screen Shot 2022-11-15 at 9.47.49 PM.png
 
+
 # URL: 
-https://konnyph.github.io/JavaScript-W3-Homework/
-file:///Users/goldenchicken/gt-bootcamp/homework/JavaScript-Week3-Homework/JavaScript-W3-Homework/Develop/index.html
+https://konnyph.github.io/Passwork-Generator/
+Github link: https://github.com/konnyph/Passwork-Generator.git
+
